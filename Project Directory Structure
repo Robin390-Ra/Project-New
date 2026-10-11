@@ -1,0 +1,12 @@
+covid19-early-eda-project/
+│
+├── data/
+│   └── 2019_nC0v_20200121_20200126 - SUMMARY.csv
+├── outputs/
+│   ├── top_countries.png
+│   ├── boxplots.png
+│   ├── distribution_plots.png
+│   └── correlation_heatmap.png
+├── main.py
+├── requirements.txt
+└── README.md
